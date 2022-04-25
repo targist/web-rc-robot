@@ -1,4 +1,4 @@
-## Public resource for web RC Robot
+## Public resources for web RC Robot
 
 
 A project to control a robot from an online platform
@@ -8,17 +8,32 @@ This project is explained in 3 parts
 ### Part 1 - How to control DC motors from Arduino
 
 You can watch a video explaining this part 
-[here](https://www.youtube.com/watch?v=31Jz2U0Rh50)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=31Jz2U0Rh50">
+    <img width="460" height="300" src="https://img.youtube.com/vi/31Jz2U0Rh50/0.jpg">
+  </a>
+</p>
 
 ### Part 2 - How to control a robot from arduino using an android device via bluetooth
 
 You can watch a video explaining this part 
-[here](https://www.youtube.com/watch?v=NS6BL6w5csc)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=NS6BL6w5csc">
+    <img width="460" height="300" src="https://img.youtube.com/vi/NS6BL6w5csc/0.jpg">
+  </a>
+</p>
 
 ### Part 3 - How to control a robot from an online platform
 
 You can watch a video explaining this part 
-[here](https://www.youtube.com/watch?v=9u7ZaV_Otio)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=9u7ZaV_Otio">
+    <img width="460" height="300" src="https://img.youtube.com/vi/9u7ZaV_Otio/0.jpg">
+  </a>
+</p>
+
+### Arduino sketches:
+Can be found [here](sketches)
 
 ### Found an issue?
 please contact us at
