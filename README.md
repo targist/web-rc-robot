@@ -35,6 +35,13 @@ You can watch a video explaining this part
 ### Arduino sketches:
 Can be found [here](sketches)
 
+### The Control center used for streaming device:
+Follow this link: [Control center](https://www.targist.com/projects/control-center)
+
+### The Android app
+Can be downloaded here: 
+[Web RC Robot](https://play.google.com/store/apps/details?id=com.targist.robot.pathfollower)
+
 ### Found an issue?
 please contact us at
 info@targist.com
