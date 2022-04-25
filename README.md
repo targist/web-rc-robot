@@ -38,9 +38,9 @@ Can be found [here](sketches)
 ### The Control center used for streaming device:
 Follow this link: [Control center](https://www.targist.com/projects/control-center)
 
-### The Android app
-Can be downloaded here: 
-[Web RC Robot](https://play.google.com/store/apps/details?id=com.targist.robot.pathfollower)
+### The used Android app
+<a href='https://play.google.com/store/apps/details?id=com.targist.robot.pathfollower&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="25%" height="25%"/>
+</a>
 
 ### Found an issue?
 please contact us at
